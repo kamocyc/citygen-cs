@@ -1,0 +1,15 @@
+# .gitignore for Visual Studio C# project files
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Nn][Yy]/
+
+# Visual Studio 2015/2017 cache/options directory
+.vs/
+
+
+packages/

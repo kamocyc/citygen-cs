@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "citygen-cs", "citygen-cs\citygen-cs.csproj", "{C0534C3C-AB23-4C02-BD03-D4E541D2EC00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{18EFAF13-6CE7-4B52-9524-C5FC48805BE2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0534C3C-AB23-4C02-BD03-D4E541D2EC00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0534C3C-AB23-4C02-BD03-D4E541D2EC00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0534C3C-AB23-4C02-BD03-D4E541D2EC00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0534C3C-AB23-4C02-BD03-D4E541D2EC00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18EFAF13-6CE7-4B52-9524-C5FC48805BE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18EFAF13-6CE7-4B52-9524-C5FC48805BE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18EFAF13-6CE7-4B52-9524-C5FC48805BE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18EFAF13-6CE7-4B52-9524-C5FC48805BE2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B88BBE75-62F6-4BB0-9DCA-A9D510FDFAC8}
+	EndGlobalSection
+EndGlobal
